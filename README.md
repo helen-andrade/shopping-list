@@ -27,6 +27,19 @@
 
 Componentização
 
+# Como utilizar
+
+1- Clone o projeto
+`git@github.com:helen-andrade/shopping-list.git`
+
+2- Instale as dependências
+`npm i`
+
+3- Rode o script de desenvolvimento
+`npm run dev`
+
+---
+
 <div align="center">
     <p style="font-size: 20px;">Feito com ♡ por Helen Andrade</p>
 </div>
